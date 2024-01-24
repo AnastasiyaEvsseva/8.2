@@ -8,7 +8,6 @@
 4. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-![alt text] (https://github.com/AnastasiyaEvsseva/8.2/commit/6d377da400e3a6ff25f6c8b40b55c9d371fb4549#diff-0ca15be4f28e9c192b6fccf3001fcb5582dc7c100c0fc5b9bd44b1aa7746c1a6/iWyPhaKkYws.jpg)
 ![alt text](https://github.com/AnastasiyaEvsseva/8.2/commit/iWyPhaKkYws.jpg)
 ### Задание 2
 1. Создайте новый проект pipeline.
