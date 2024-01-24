@@ -12,7 +12,7 @@
 ![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/zia7fSovFY8.jpg)
 ![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/Dm0BelA1kUA.jpg)
 ![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/XqHUns9u31E.jpg)
-
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/xAFXuhglYv0.jpg)
 ### Задание 2
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
