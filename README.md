@@ -9,12 +9,17 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 ![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/iWyPhaKkYws.jpg)
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/zia7fSovFY8.jpg)
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/Dm0BelA1kUA.jpg)
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/XqHUns9u31E.jpg)
+
 ### Задание 2
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/1.jpg)
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/517ZoWWvWck.jpg)
 ### Задание 3
 1. Установите на машину Nexus.
 2. Создайте raw-hosted репозиторий.
