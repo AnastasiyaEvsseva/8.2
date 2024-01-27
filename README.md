@@ -27,3 +27,5 @@
 4. Загрузите файл в репозиторий с помощью jenkins.
    
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/3-1.jpg)
+![Image alt](https://github.com/AnastasiyaEvsseva/8.2/blob/main/3-2.jpg)
